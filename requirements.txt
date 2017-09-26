@@ -1,1 +1,2 @@
 pyupio
+apps-client-claims
